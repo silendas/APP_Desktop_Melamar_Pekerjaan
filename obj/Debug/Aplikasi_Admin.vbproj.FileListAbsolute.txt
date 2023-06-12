@@ -1,0 +1,44 @@
+C:\Users\hp\source\repos\Aplikasi_Admin\bin\Debug\Aplikasi_Admin.exe.config
+C:\Users\hp\source\repos\Aplikasi_Admin\bin\Debug\Aplikasi_Admin.exe
+C:\Users\hp\source\repos\Aplikasi_Admin\bin\Debug\Aplikasi_Admin.pdb
+C:\Users\hp\source\repos\Aplikasi_Admin\bin\Debug\Aplikasi_Admin.xml
+C:\Users\hp\source\repos\Aplikasi_Admin\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\hp\source\repos\Aplikasi_Admin\bin\Debug\Guna.UI2.dll
+C:\Users\hp\source\repos\Aplikasi_Admin\obj\Debug\Aplikasi_Admin.vbproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Aplikasi_Admin\obj\Debug\Aplikasi_Admin.Form1.resources
+C:\Users\hp\source\repos\Aplikasi_Admin\obj\Debug\Aplikasi_Admin.Resources.resources
+C:\Users\hp\source\repos\Aplikasi_Admin\obj\Debug\Aplikasi_Admin.vbproj.GenerateResource.cache
+C:\Users\hp\source\repos\Aplikasi_Admin\obj\Debug\Aplikasi_Admin.vbproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Aplikasi_Admin\obj\Debug\Aplikasi_Admin.vbproj.CopyComplete
+C:\Users\hp\source\repos\Aplikasi_Admin\obj\Debug\Aplikasi_Admin.exe
+C:\Users\hp\source\repos\Aplikasi_Admin\obj\Debug\Aplikasi_Admin.xml
+C:\Users\hp\source\repos\Aplikasi_Admin\obj\Debug\Aplikasi_Admin.pdb
+C:\Users\hp\source\repos\aplikasi_admin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hp\source\repos\aplikasi_admin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hp\source\repos\aplikasi_admin\obj\Debug\Aplikasi_Admin.Dasboard.resources
+C:\Users\hp\source\repos\aplikasi_admin\obj\Debug\Aplikasi_Admin.hrd.resources
+C:\Users\hp\source\repos\Aplikasi_Admin\obj\Debug\Aplikasi_Admin.admin.resources
+C:\Users\hp\source\repos\Aplikasi_Admin\obj\Debug\Aplikasi_Admin.pelamar.resources
+C:\Users\hp\source\repos\aplikasi_admin\obj\Debug\Aplikasi_Admin.Riwayat.resources
+D:\Kuliah\Semester 4\Pemrograman Interaktif\IPAT\Aplikasi_Admin\bin\Debug\Aplikasi_Admin.exe.config
+D:\Kuliah\Semester 4\Pemrograman Interaktif\IPAT\Aplikasi_Admin\bin\Debug\Aplikasi_Admin.exe
+D:\Kuliah\Semester 4\Pemrograman Interaktif\IPAT\Aplikasi_Admin\bin\Debug\Aplikasi_Admin.pdb
+D:\Kuliah\Semester 4\Pemrograman Interaktif\IPAT\Aplikasi_Admin\bin\Debug\Aplikasi_Admin.xml
+D:\Kuliah\Semester 4\Pemrograman Interaktif\IPAT\Aplikasi_Admin\bin\Debug\FontAwesome.Sharp.dll
+D:\Kuliah\Semester 4\Pemrograman Interaktif\IPAT\Aplikasi_Admin\bin\Debug\Guna.UI2.dll
+D:\Kuliah\Semester 4\Pemrograman Interaktif\IPAT\Aplikasi_Admin\bin\Debug\Newtonsoft.Json.dll
+D:\Kuliah\Semester 4\Pemrograman Interaktif\IPAT\Aplikasi_Admin\bin\Debug\Newtonsoft.Json.xml
+D:\Kuliah\Semester 4\Pemrograman Interaktif\IPAT\Aplikasi_Admin\obj\Debug\Aplikasi_Admin.vbproj.AssemblyReference.cache
+D:\Kuliah\Semester 4\Pemrograman Interaktif\IPAT\Aplikasi_Admin\obj\Debug\Aplikasi_Admin.admin.resources
+D:\Kuliah\Semester 4\Pemrograman Interaktif\IPAT\Aplikasi_Admin\obj\Debug\Aplikasi_Admin.Dasboard.resources
+D:\Kuliah\Semester 4\Pemrograman Interaktif\IPAT\Aplikasi_Admin\obj\Debug\Aplikasi_Admin.Form1.resources
+D:\Kuliah\Semester 4\Pemrograman Interaktif\IPAT\Aplikasi_Admin\obj\Debug\Aplikasi_Admin.hrd.resources
+D:\Kuliah\Semester 4\Pemrograman Interaktif\IPAT\Aplikasi_Admin\obj\Debug\Aplikasi_Admin.Riwayat.resources
+D:\Kuliah\Semester 4\Pemrograman Interaktif\IPAT\Aplikasi_Admin\obj\Debug\Aplikasi_Admin.Resources.resources
+D:\Kuliah\Semester 4\Pemrograman Interaktif\IPAT\Aplikasi_Admin\obj\Debug\Aplikasi_Admin.pelamar.resources
+D:\Kuliah\Semester 4\Pemrograman Interaktif\IPAT\Aplikasi_Admin\obj\Debug\Aplikasi_Admin.vbproj.GenerateResource.cache
+D:\Kuliah\Semester 4\Pemrograman Interaktif\IPAT\Aplikasi_Admin\obj\Debug\Aplikasi_Admin.vbproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 4\Pemrograman Interaktif\IPAT\Aplikasi_Admin\obj\Debug\Aplikasi_Admin.vbproj.CopyComplete
+D:\Kuliah\Semester 4\Pemrograman Interaktif\IPAT\Aplikasi_Admin\obj\Debug\Aplikasi_Admin.exe
+D:\Kuliah\Semester 4\Pemrograman Interaktif\IPAT\Aplikasi_Admin\obj\Debug\Aplikasi_Admin.xml
+D:\Kuliah\Semester 4\Pemrograman Interaktif\IPAT\Aplikasi_Admin\obj\Debug\Aplikasi_Admin.pdb
